@@ -1,0 +1,21 @@
+* {
+    background-color: antiquewhite;
+    font-weight: 500;
+}
+
+h1 {
+    text-align: center;
+}
+
+tr {
+    width: 90%;
+}
+
+div {
+    text-align: right;
+    border: black;
+}
+
+td {
+    padding: 10px;
+}
